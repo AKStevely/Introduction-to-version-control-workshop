@@ -1,0 +1,6 @@
+Create a repo (done)
+Add file to repo (done)
+Check Github history (done)
+Make sure to add new line at the end of any file before committing (done)
+Make a change on Github
+Pull from Github
